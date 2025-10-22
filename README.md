@@ -1,5 +1,5 @@
 # LibrarySystem
 
 
-- CD Librarysytem
+- CD Librarysystem
 - python manage.py runserver.
